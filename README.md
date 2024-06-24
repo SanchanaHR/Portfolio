@@ -34,6 +34,13 @@ challenges and demonstrates my proficiency in SQL query writing and problem-solv
 ![Dashboard 1](https://github.com/SanchanaHR/Airbnb-NYC-listings-dashboard-Tableau/assets/127469995/9c057ef0-0ee4-456e-9c46-56dade9783df)
 Tableau Link: [Here](https://public.tableau.com/app/profile/sanchana.hassan.ramanatha/viz/Airbnb_16792778132890/Dashboard1)
 
+|Project|Description|
+|--- | ---|
+|[Netflix Movie Dashboard](https://github.com/SanchanaHR/Netflix-Tableau-Dashboard)|This Netflix Dashboard delves deep into the world of entertainment, providing valuable insights trends and patterns that can help make strategic decisions on content and viewership.
+
+![Dashboard 1](https://github.com/SanchanaHR/Portfolio/assets/127469995/69461bc8-8e58-452a-ba58-d7c96e1fe38b)
+Tableau Link: [Here](https://public.tableau.com/app/profile/sanchana.hassan.ramanatha/viz/NetflixDashboard_16789237503600/Dashboard1)
+
 # Python
 |Project|Description|
 |--- | ---|
