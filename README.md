@@ -23,8 +23,7 @@ Welcome to my Data Analytics GitHub portfolio- this is a collection of some data
 # SQL
 |Project|Description|
 |--- | ---|
-|[SQL 8 Week Challenge](https://github.com/SanchanaHR/SQL-8-Weeks-Challenge/tree/main)|This repository is a collection of 8 challenging case studies using SQL. It showcases my ability to tackle various SQL 
-challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+|[SQL 8 Week Challenge](https://github.com/SanchanaHR/SQL-8-Weeks-Challenge/tree/main)|This repository is a collection of 8 challenging case studies using SQL. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
 
 # Tableau
 |Project|Description|
