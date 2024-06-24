@@ -1,2 +1,40 @@
-# Portfolio
-A summary of Portfolio projects and casestudies- Excel, Tableau, SQL and Python
+# Data Analytics GitHub Portfolio :ledger:
+Welcome to my Data Analytics GitHub portfolio- this is a collection of some data- analytics projects to showcase my skillset in data analytics.
+
+# Contents :scroll:
+- [Excel](#excel)
+- [SQL](#sql)
+- [Tableau](#tableau)
+- [Python](#python)
+
+# Excel
+|Project|Description|
+|--- | ---|
+|[Churn Analysis On Telecom Subscription Dataset](https://github.com/SanchanaHR/Churn-Analysis-using-Excel)|Performed Churn Analysis on a subscription- based telecom business dataset using Excel and uncovered insights on why customers were churning.|
+
+![Screenshot 2024-03-19 143707](https://github.com/SanchanaHR/Churn-Analysis-using-Excel/assets/127469995/1770aa13-0778-4ef8-8dc2-9796fa9c390e)
+
+|Project|Description|
+|--- | ---|
+|[Sales Analysis- Sports Retailer](https://github.com/SanchanaHR/SportsRetailer_Sales_Analysis)|Performed Exploratory data analysis and designed an interactive dashboard to analyze the sales data of a sports retailer in the US region using Pivot tables and charts in Excel|
+
+![image](https://github.com/SanchanaHR/SportsRetailer_Sales_Analysis/assets/127469995/279ce384-5531-45b2-8c65-93b2fbcb7a1a)
+
+# SQL
+|Project|Description|
+|--- | ---|
+|[SQL 8 Week Challenge](https://github.com/SanchanaHR/SQL-8-Weeks-Challenge/tree/main)|This repository is a collection of 8 challenging case studies using SQL. It showcases my ability to tackle various SQL 
+challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+
+# Tableau
+|Project|Description|
+|--- | ---|
+|[Airbnb-NYC listings dashboard](https://github.com/SanchanaHR/Airbnb-NYC-listings-dashboard-Tableau)|This repository showcases an interactive and insightful Tableau dashboard exploring the Airbnb dataset for New York City listings.|
+
+![Dashboard 1](https://github.com/SanchanaHR/Airbnb-NYC-listings-dashboard-Tableau/assets/127469995/9c057ef0-0ee4-456e-9c46-56dade9783df)
+Tableau Link: [Here](https://public.tableau.com/app/profile/sanchana.hassan.ramanatha/viz/Airbnb_16792778132890/Dashboard1)
+
+# Python
+|Project|Description|
+|--- | ---|
+|[Superstore Data Analysis](https://github.com/SanchanaHR/Superstore_Data_Analysis)|Performed Exploratory Data Analysis on Superstore dataset to answer important business questions using Python (Pandas, Seaborn, Matplotlib|
