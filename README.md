@@ -1,5 +1,5 @@
 # Data Analytics GitHub Portfolio :ledger:
-Welcome to my Data Analytics GitHub portfolio- this is a collection of some data- analytics projects to showcase my skillset in data analytics.
+Welcome to my GitHub portfolio- this is a collection of some projects to showcase my skillset in Data analytics and Business Intelligence.
 
 # Contents :scroll:
 - [Excel](#excel)
