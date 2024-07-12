@@ -10,6 +10,17 @@ Welcome to my GitHub portfolio- this is a collection of some projects to showcas
 # Tableau
 |Project|Description|
 |--- | ---|
+|[HR Analytics Dashboard](https://github.com/SanchanaHR/HR-Dashboard))|This repository showcases a comprehensive dashboard of HR data with both summary view for high level insights and detailed records for in- depth analysis|
+## Summary View:
+![HR Summary](https://github.com/user-attachments/assets/1ddc74e5-3568-4e83-acb8-7792883413e2)
+
+## Detail View:
+![HR Details](https://github.com/user-attachments/assets/42e13279-af67-4563-a843-88ab4887cb2b)
+
+Tableau Link: [Here](https://public.tableau.com/app/profile/sanchana.hassan.ramanatha/viz/HRAnalyticsDashboard_17202201414670/Dashboard1)
+
+|Project|Description|
+|--- | ---|
 |[Superstore- Sales Dashboard](https://github.com/SanchanaHR/Superstore-Sales-Dashboard---Tableau)|This repository showcases an interactive and insightful Tableau dashboard exploring the Sales data of a retail business. It is an overview of sales metrics and trends to understand the Y-o-Y sales and performance. |
 
 ![Screenshot 2024-06-25 120140](https://github.com/SanchanaHR/Portfolio/assets/127469995/f28b8db8-fef9-474e-b6ba-e9973bd8fd04)
